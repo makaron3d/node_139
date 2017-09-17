@@ -1,6 +1,6 @@
 var http = require('http');
 var colors = require('colors');
-
+//var html = require('start.html');
 var handlers = require('./handlers');
 
 function start() {
